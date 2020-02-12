@@ -1,1 +1,1 @@
-$@1(E1 INTER E2)
+E1 UNION E2
